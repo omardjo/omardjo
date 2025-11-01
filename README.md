@@ -1,33 +1,153 @@
-<h1 align="center">Hi 👋, I'm Omar Djebbi</h1>
-<h3 align="center">A passionate mobile developer from Tunisia</h3>
+# Hi 👋, I'm Omar Djebbi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omardjo&label=Profile%20views&color=0e75b6&style=flat" alt="omardjo" /> </p>
+<div align="center">
+  
+### 🎓 Software Engineering Graduate | ESPRIT University (October 10, 2025)
+### 📱 Passionate Mobile & Full-Stack Developer from Tunisia
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omardjo" alt="omardjo" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=omardjo&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/omardjo)
 
-- 🔭 I’m currently working on [SkillsSails](https://github.com/SkillsSails)
+</div>
 
-- 🌱 I’m currently learning **Flask**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/omardjo?tab=repositories](https://github.com/omardjo?tab=repositories)
+## 🏆 Achievements & Certifications
 
-- 💬 Ask me about **php, javascript, CSS, javafx,**
+<div align="center">
 
-- 📫 How to reach me **mrdjebbi@gmail.com**
+[![trophy](https://github-profile-trophy.vercel.app/?username=omardjo&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@omardjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@omardjo" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/djebbi-omar-a181b0250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/djebbi-omar-a181b0250/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25516546/omar-djebbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25516546/omar-djebbi" height="30" width="40" /></a>
-<a href="https://fb.com/omar.djebbi.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/omar.djebbi.94" height="30" width="40" /></a>
-<a href="https://discord.gg/o̷m̷a̷r̷ ̷d̷j̷e̷b̷b̷i̷" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="o̷m̷a̷r̷ ̷d̷j̷e̷b̷b̷i̷" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+### 📜 Certifications in Progress
+- 🎯 **Flutter Master Class (Dart, API & More)** - Udemy (In Progress)
+  - Comprehensive mobile development training
+  - Advanced Dart programming & API integration
+  - State management & architecture patterns
+  - Expected completion: 2025
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omardjo&show_icons=true&locale=en&layout=compact" alt="omardjo" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omardjo&show_icons=true&locale=en" alt="omardjo" /></p>
+## 💼 Professional Experience
 
+### 🚀 Full-Stack Projects
+
+#### 📦 **E-Commerce Management System**
+**Tech Stack:** Flutter + Nest.js + Stripe
+- Implemented Stripe payment gateway integration
+- Developed comprehensive stock management system
+- Built supplier (fournisseur) management module
+- Created RESTful APIs with Nest.js backend
+- Designed responsive Flutter frontend
+
+#### 🏢 **Enterprise Resource Planning Integration**
+**Tech Stack:** Flutter + Business Central 365 + Azure SQL
+- Integrated with Microsoft Business Central 365
+- Implemented Azure SQL Server database connectivity
+- Built cloud-based data synchronization
+- Developed real-time querying mechanisms
+- Created enterprise-level mobile interface
+
+---
+
+## 🔭 Current Work
+
+- 📚 Completing **Flutter Master Class (Dart, API & More)** certification on Udemy
+- Working on [SkillsSails](https://github.com/SkillsSails)
+- Building scalable mobile applications
+- Exploring cloud integration patterns
+
+## 🌱 Currently Learning
+
+- **Flask** - Python web framework
+- Advanced backend architectures
+- Cloud-native development
+
+---
+
+## 💻 Technical Expertise
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+### Backend Development
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Programming Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Payment Integration
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+
+### Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 💬 Ask Me About
+
+`Flutter` • `Dart` • `Nest.js` • `Node.js` • `API Integration` • `Mobile Development` • `PHP` • `JavaScript` • `CSS` • `JavaFX` • `Cloud Solutions` • `Payment Gateways` • `Database Design`
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=omardjo&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omardjo&show_icons=true&locale=en&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omardjo&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djebbi-omar-a181b0250/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25516546/omar-djebbi)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@omardjo)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/omar.djebbi.94)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/o̷m̷a̷r̷ ̷d̷j̷e̷b̷b̷i̷)
+
+</div>
+
+---
+
+## 📫 Contact
+
+**Email:** mrdjebbi@gmail.com
+
+**Portfolio:** [github.com/omardjo](https://github.com/omardjo?tab=repositories)
+
+---
+
+<div align="center">
+  
+### ⚡ "Building innovative mobile solutions, one commit at a time"
+
+![Visitor Count](https://profile-counter.glitch.me/omardjo/count.svg)
+
+</div>
