@@ -10,6 +10,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=omardjo&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/omardjo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/djebbi-omar-a181b0250/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-darkgreen?style=for-the-badge&logo=google-chrome)](http://portfolio.tijari.biz)
+[![GitHub followers](https://img.shields.io/github/followers/omardjo?style=social)](https://github.com/omardjo)
+[![GitHub stars](https://img.shields.io/github/stars/omardjo?style=social)](https://github.com/omardjo)
 
 </div>
 
@@ -80,45 +82,44 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/omardjo">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=omardjo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omardjo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+### 🔥 My Contributions
 
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=omardjo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+Check out my repositories and contributions on my [GitHub profile](https://github.com/omardjo)!
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Current Focus
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=omardjo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+- 📱 Building cross-platform mobile applications with **Flutter**
+- 🔧 Developing scalable backend solutions with **Node.js** and **Nest.js**
+- 🌐 Exploring modern web technologies and cloud platforms
+- 🤖 Integrating AI/ML capabilities into mobile applications
 
 ---
 
 ## 📫 Connect With Me
 
-- **Email:** [omar.djebbi@tijari.biz](mailto:omar.djebbi@tijari.biz)
-- **Portfolio:** [portfolio.tijari.biz](http://portfolio.tijari.biz)
-- **LinkedIn:** [Omar Djebbi](https://www.linkedin.com/in/djebbi-omar-a181b0250/)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-omar.djebbi%40tijari.biz-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.djebbi@tijari.biz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.tijari.biz-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](http://portfolio.tijari.biz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Djebbi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djebbi-omar-a181b0250/)
+[![GitHub](https://img.shields.io/badge/GitHub-omardjo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omardjo)
+
+</div>
 
 ---
 
 <div align="center">
-  
+
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**⭐ From [omardjo](https://github.com/omardjo)**
 
 </div>
