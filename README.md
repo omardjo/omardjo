@@ -6,7 +6,8 @@
 
 <br>
 
-```text
+<div align="center">
+<pre style="background: transparent; border: none; text-align: left; display: inline-block;">
        .o000000000o.           omar@djebbi
      .000000000000000.         ---------------------------------------------
     .00000000000000000.        OS: Windows, Linux, macOS, Android, iOS
@@ -21,7 +22,8 @@
    .00000.  /  \  .00000.      Langs.Cloud: Azure, Google Cloud, Dynamics 365 BC, AL
   /0000000. |  | .0000000\     Langs.Spoken: Arabic, French, English
  /000000000.`=='.000000000\    Hobbies: Coding, Gaming, Reading, Films, Podcasts
-```
+</pre>
+</div>
 
 <div align="center">
 
