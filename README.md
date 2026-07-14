@@ -7,20 +7,20 @@
 <br>
 
 ```text
-   .g@@@@@@@@@@p.           omar@djebbi
- .@@@@@@@@@@@@@@@.          ---------------------------------------------
- @@@@@@@@@@@@@@@@@          OS: Windows, Linux, macOS, Android, iOS
-j@@@@@@@@@@@@@@@@@          Uptime: 2+ years professional experience
-@@@@@@P"'   '"@@@@          Host: Tunis, Tunisia | ESPRIT Graduate
-@@@@@.  -(O)  (O)           Role: Web & Mobile Software Engineer
-@@@@@@          |           IDE: VS Code, Android Studio, Xcode
-@@@@@@@.     .==            
-@@@@@@@@@.   _.'            Langs.Mobile: Flutter, React Native, Kotlin, Swift
-@@@@@@@@@@@@@@              Langs.Backend: Node.js, FastAPI, Flask, Django, PHP
-@@@@@@@@@@@@@P              Langs.Frontend: React, Angular, HTML, CSS
-@@@@@@@@@@@@P               Langs.Cloud: Azure, Google Cloud, Dynamics 365 BC, AL
-@@@@@@@@@@@P                Langs.Spoken: Arabic, French, English
-@@@@@@@@@@P                 Hobbies: Coding, Gaming, Reading, Films, Podcasts
+       .o000000000o.           omar@djebbi
+     .000000000000000.         ---------------------------------------------
+    .00000000000000000.        OS: Windows, Linux, macOS, Android, iOS
+    0000000000000000000        Uptime: 2+ years professional experience
+    0000000P"   "Y00000        Host: Tunis, Tunisia | ESPRIT Graduate
+    00000' -(O)-(O)- '0        Role: Web & Mobile Software Engineer
+    00000      |      0        IDE: VS Code, Android Studio, Xcode
+    `0000.   .===.   .0        
+     `0000.   `-'   .0'        Langs.Mobile: Flutter, React Native, Kotlin, Swift
+       `000p.....g00'          Langs.Backend: Node.js, FastAPI, Flask, Django, PHP
+     ___/`00000000'\___        Langs.Frontend: React, Angular, HTML, CSS
+   .00000.  /  \  .00000.      Langs.Cloud: Azure, Google Cloud, Dynamics 365 BC, AL
+  /0000000. |  | .0000000\     Langs.Spoken: Arabic, French, English
+ /000000000.`=='.000000000\    Hobbies: Coding, Gaming, Reading, Films, Podcasts
 ```
 
 <div align="center">
