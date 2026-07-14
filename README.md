@@ -6,21 +6,21 @@
 
 <br>
 
-```yaml
-           .g@@@@@@@@@@p.           omar@djebbi:
-         .@@@@@@@@@@@@@@@.          ---------------------------------------------
-         @@@@@@@@@@@@@@@@@          OS: Windows, Linux, macOS, Android, iOS
-        j@@@@@@@@@@@@@@@@@          Uptime: 2+ years professional experience
-        @@@@@@P"'   '"@@@@          Host: Tunis, Tunisia | ESPRIT Graduate
-       .@@@@@   -(O)  (O)           Role: Web & Mobile Software Engineer
-       @@@@@@           |           IDE: VS Code, Android Studio, Xcode
-      ,@@@@@@@.      .==            
-      @@@@@@@@@@.    _.'            Langs.Mobile: Flutter, React Native, Kotlin, Swift
-      @@@@@@@@@@@@@@@               Langs.Backend: Node.js, FastAPI, Flask, Django, PHP
-      @@@@@@@@@@@@@@P               Langs.Frontend: React, Angular, HTML, CSS
-     ,@@@@@@@@@@@@@P                Langs.Cloud: Azure, Google Cloud, Dynamics 365 BC, AL
-    .@@@@@@@@@@@@@P                 Langs.Spoken: Arabic, French, English
-  .g@@@@@@@@@@@@@@@p.               Hobbies: Coding, Gaming, Reading, Films, Podcasts
+```text
+   .g@@@@@@@@@@p.           omar@djebbi
+ .@@@@@@@@@@@@@@@.          ---------------------------------------------
+ @@@@@@@@@@@@@@@@@          OS: Windows, Linux, macOS, Android, iOS
+j@@@@@@@@@@@@@@@@@          Uptime: 2+ years professional experience
+@@@@@@P"'   '"@@@@          Host: Tunis, Tunisia | ESPRIT Graduate
+@@@@@.  -(O)  (O)           Role: Web & Mobile Software Engineer
+@@@@@@          |           IDE: VS Code, Android Studio, Xcode
+@@@@@@@.     .==            
+@@@@@@@@@.   _.'            Langs.Mobile: Flutter, React Native, Kotlin, Swift
+@@@@@@@@@@@@@@              Langs.Backend: Node.js, FastAPI, Flask, Django, PHP
+@@@@@@@@@@@@@P              Langs.Frontend: React, Angular, HTML, CSS
+@@@@@@@@@@@@P               Langs.Cloud: Azure, Google Cloud, Dynamics 365 BC, AL
+@@@@@@@@@@@P                Langs.Spoken: Arabic, French, English
+@@@@@@@@@@P                 Hobbies: Coding, Gaming, Reading, Films, Podcasts
 ```
 
 <div align="center">
@@ -45,9 +45,9 @@
 ### Mobile & Frontend
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![iOS Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
