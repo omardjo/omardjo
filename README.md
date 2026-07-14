@@ -7,20 +7,20 @@
 <br>
 
 ```yaml
-         .oO088880Oo.           omar@djebbi:
-       .o888888888888o.         ---------------------------------------------
-      .8888888888888888.        OS: Windows, Linux, macOS, Android, iOS
-     .888|`-(o)-(o)-'|88.       Uptime: 2+ years professional experience
-     888888   .-.   88888       Host: Tunis, Tunisia | ESPRIT Graduate
-     8888888  ===  888888       Role: Web & Mobile Software Engineer
-     88888888888888888888       IDE: VS Code, Android Studio, Xcode
-     `888888888888888888'       
-      `8888888888888888'        Langs.Mobile: Flutter, React Native, Kotlin, Swift
-        `088888888880'          Langs.Backend: Node.js, FastAPI, Flask, Django, PHP
-      .o88888888888888o.        Langs.Frontend: React, Angular, HTML, CSS
-    .o888888888888888888o.      Langs.Cloud: Azure, Google Cloud, Dynamics 365 BC, AL
-  .o8888888888888888888888o.    Langs.Spoken: Arabic, French, English
-.o88888888888888888888888888o.  Hobbies: Coding, Gaming, Reading, Films, Podcasts
+           .g@@@@@@@@@@p.           omar@djebbi:
+         .@@@@@@@@@@@@@@@.          ---------------------------------------------
+         @@@@@@@@@@@@@@@@@          OS: Windows, Linux, macOS, Android, iOS
+        j@@@@@@@@@@@@@@@@@          Uptime: 2+ years professional experience
+        @@@@@@P"'   '"@@@@          Host: Tunis, Tunisia | ESPRIT Graduate
+       .@@@@@   -(O)  (O)           Role: Web & Mobile Software Engineer
+       @@@@@@           |           IDE: VS Code, Android Studio, Xcode
+      ,@@@@@@@.      .==            
+      @@@@@@@@@@.    _.'            Langs.Mobile: Flutter, React Native, Kotlin, Swift
+      @@@@@@@@@@@@@@@               Langs.Backend: Node.js, FastAPI, Flask, Django, PHP
+      @@@@@@@@@@@@@@P               Langs.Frontend: React, Angular, HTML, CSS
+     ,@@@@@@@@@@@@@P                Langs.Cloud: Azure, Google Cloud, Dynamics 365 BC, AL
+    .@@@@@@@@@@@@@P                 Langs.Spoken: Arabic, French, English
+  .g@@@@@@@@@@@@@@@p.               Hobbies: Coding, Gaming, Reading, Films, Podcasts
 ```
 
 <div align="center">
